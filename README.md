@@ -13,7 +13,7 @@ This workshop was given during
 ## Resources 
 
 ### For entire workshop
-* Full workshop outline and notes: https://etherpad.wikimedia.org/p/wm2019-mapmakingworkshop (and [backup here](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019/EtherpadBackup))
+* Full workshop outline and notes: [OutlineAndNotes.md](OutlineAndNotes.md) (and [backup here](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019/EtherpadBackup))
 * Full workshop slides on [Slidehare]() and [Wikimedia Commons]()
 
 ### For Module 2
