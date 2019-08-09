@@ -23,7 +23,7 @@ This workshop was given during
 * https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb (with [backup in this repo]( 	MapMakingWorkshop_Wikimania2019.ipynb))
 * [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb?format=raw)
 
-## Contact details for the workshop
+## Contact details
 * Olaf Janssen, national library of The Netherlands - https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
 * User:OlafJanssen on (Dutch) Wikipedia, Wikimedia Commons and Wikidata
