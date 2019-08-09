@@ -1,6 +1,6 @@
 # Map making workshop – from Wikidata to interactive off-Wiki maps in three steps
 
-Description of this workshop: https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
+Original description of this workshop: https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
 ([Archived URL](https://web.archive.org/web/20190808101032/https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps))
 
 ## Learning objectives
