@@ -1,13 +1,11 @@
-URL of this Etherpad: https://etherpad.wikimedia.org/p/wm2019-mapmakingworkshop
+# Workshop outline and notes
 
 Workshop description : https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
 Archived URL: https://web.archive.org/web/20190808101032/https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
 
 Full slides of workshop
-* TO ADD on WMC
-* TO ADD on Slideshare
-
-All resources for this workshop are also available on https://github.com/ookgezellig/WikidataMapMakingWorkshop
+* TO ADD on [Wikimedia Commons]()
+* TO ADD on [Slideshare]()
 
 Contact details for the workshop
 
@@ -15,7 +13,6 @@ Contact details for the workshop
 * olaf.janssen{@}kb.nl
 * User:OlafJanssen on (Dutch) WP, WMC and Wikidata
 * Twitter: @ookgezellig
-
 
 ==========================================================================
 
@@ -27,7 +24,7 @@ Participants
 * Will have access to map making resources, SPARQL examples and Python code snippets they can build upon for their own projects after Wikimania.
 
 
-================ Module 1:  Basic flat & layered maps  ==================================
+## Module 1:  Basic flat & layered maps 
 
 Prerequisites (check with participants): 
 
@@ -71,7 +68,7 @@ For the rest of the workshop I'll work with the first dataset (Public libraries 
 * Dutch municipalities, by number of public libraries https://w.wiki/6gb
 
 
-================ Module 2:  Embedded maps in Wikimedia projects ==========================
+## Module 2:  Embedded maps in Wikimedia projects
 
 Prerequisites (in addtition to those in Module 1)
 * User page on Wikipedia, Commons or Wikidata ...With Sandbox
@@ -123,7 +120,7 @@ The examples below are available on https://nl.wikipedia.org/wiki/Gebruiker:Olaf
 * Examples by Simon Cobb https://www.wikidata.org/wiki/User:Sic19#GeoShapes
 
 
-================= Module 3 : Off-wiki layered Wikidata-driven maps =====================
+## Module 3 : Off-wiki layered Wikidata-driven maps
 
 Prerequisites (in addtition to those in Modules 1 and 2)
 * Mediawiki account - https://www.mediawiki.org
