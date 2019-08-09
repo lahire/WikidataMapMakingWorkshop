@@ -7,22 +7,7 @@ Full slides of workshop
 * TO ADD on [Wikimedia Commons]()
 * TO ADD on [Slideshare]()
 
-Contact details for the workshop
-
-* Olaf Janssen, national library of The Netherlands -https://www.kb.nl/wikipedia
-* olaf.janssen{@}kb.nl
-* User:OlafJanssen on (Dutch) WP, WMC and Wikidata
-* Twitter: @ookgezellig
-
 ==========================================================================
-
-Learning objectives
-Participants
-* (Module 1, basic) Understand the steps to make basic flat and layered maps in Wikidata, based on geo-referenced (P625) items and SPARQL queries 
-* (Module 2, intermediate) Understand steps to embed maps in Wikimedia sites like Wikipedia, Wikimedia Commons, Wikidata
-* (Module 3, advanced) Understand the steps to create Wikidata-based maps than can be used in other (non-Wiki) websites 
-* Will have access to map making resources, SPARQL examples and Python code snippets they can build upon for their own projects after Wikimania.
-
 
 ## Module 1:  Basic flat & layered maps 
 
