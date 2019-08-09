@@ -1,14 +1,5 @@
 # Workshop outline and notes
 
-Workshop description : https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
-Archived URL: https://web.archive.org/web/20190808101032/https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
-
-Full slides of workshop
-* TO ADD on [Wikimedia Commons]()
-* TO ADD on [Slideshare]()
-
-==========================================================================
-
 ## Module 1:  Basic flat & layered maps 
 
 Prerequisites (check with participants): 
