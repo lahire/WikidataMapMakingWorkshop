@@ -21,7 +21,7 @@ If you do not have, or cannot create such a Wikidata set, you can use one of the
 Many examples in this workshop are based on the first dataset [Public libraries in The Netherlands](https://w.wiki/6dx)
 
 ### Module 1.1 Basic flat map
-<image src="images/1-1-basic-flat-map.jpg" width="200"/>
+<image src="images/1-1-basic-flat-map.jpg" width="200"/><br clear="all"/> 
 * Public libraries in The Netherlands: https://w.wiki/6dx
 * Default map view: https://w.wiki/6eq
 * Relation between query and popup
