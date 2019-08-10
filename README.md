@@ -52,10 +52,12 @@ This workshop is given by Olaf Janssen, Wikimedia coordinator of the national li
 
 ## Dates
 So far, this workshop was given during
-* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18-8-2019
-* [WikidataCon](), Berlin, October 2019
-* [Wiki Techstorm III](), Amsterdam, 22-11-2019
-* [National library of The Netherlands](), The Hague, tbd
+* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019
+
+It will also be given during
+* [WikidataCon](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019), Berlin, 25-26 October 2019
+* [Wiki Techstorm III](https://www.wikimedia.nl/pagina/program), Amsterdam, 23 November 2019
+* Open workshop in the [national library of The Netherlands](), The Hague, data t.b.d.
 
 ## Reusing workshop materials
 You are free to reuse all workshop materials, as they are available under the license [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
