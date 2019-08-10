@@ -2,7 +2,7 @@
 *Last update: 10th August 2019*
 
 ## Module 1:  Basic flat & layered maps 
-
+<image src="images/module1-1.jpg" width="200"/><br clear="all"/>
 Prerequisites for this Module
 
 * [Wikimedia account](https://www.wikidata.org/w/index.php?title=Special:CreateAccount)
@@ -16,7 +16,6 @@ If you do not have, or cannot create such a Wikidata set, you can use one of the
 3) [Big cities](https://w.wiki/6e3) in the world
 4) [Volcanos](https://w.wiki/6e9)
 5) [Airports around the equator](https://w.wiki/6eB) ( between -10 and +10 degrees latitude)
-6) .... pick your own
 
 Many examples in this workshop are based on the first dataset [Public libraries in The Netherlands](https://w.wiki/6dx)
 
@@ -40,12 +39,11 @@ Many examples in this workshop are based on the first dataset [Public libraries 
 * Libraries layered by postal code zone: https://bit.ly/3368DPk (do not click, copy-paste URL to browser)
 
 ### Module 1.5 Other cool layered maps
-<image src="images/1-5-other-cool-layered-maps.jpg" width="200"/><br clear="all"/> 
+<image src="images/1-5-other-cool-layered-maps.jpg" width="200"/><br clear="all"/>
 * Big cities, by population: https://w.wiki/3fx
 * Disasters, by type: https://w.wiki/6gY
 * Medieval churches, by century of construction: https://w.wiki/6ga
 * Dutch municipalities, by number of public libraries: https://w.wiki/6gb
-
 
 ## Module 2:  Embedded maps in Wikimedia projects
 
