@@ -59,39 +59,39 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 * [Basic embedded map of The Netherlands](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/0), without data. [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=2)
 
 ### Module 2.1 Single location, hard-coded 
-* [One public library in Amsterdam, geo coordinates hard-coded](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/1). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=3) 
+* [One public library in Amsterdam, geo coordinates hard-coded](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/1). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=3))</sub> 
 * Styling of markers https://github.com/mapbox/simplestyle-spec/tree/master/1.1.0#3-client-behavior and https://www.mediawiki.org/wiki/Help:Extension:Kartographer
 
 ### Module 2.2 Three locations, hard-coded 
-* [Library, museum and archive in Amsterdam, geo coordinates hard-coded](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/2). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=4) 
+* [Library, museum and archive in Amsterdam, geo coordinates hard-coded](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/2). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=4))</sub> 
 
 ### Module 2.3 Outline (GeoShape) via Wikidata & OpenStreetMap 
-* [Outline (geoshape) of Amsterdam public library (main site), using Wikidata and Open Street Map](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/3). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=5) 
+* [Outline (geoshape) of Amsterdam public library (main site), using Wikidata and Open Street Map](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/3). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=5))</sub>  
 * [Wikidata item of Amsterdam Public Library, OBA Oosterdok (Centrale)](https://www.wikidata.org/wiki/Q50413436)
 * [OBA Oosterdok on OSM](https://www.openstreetmap.org/way/240467636#map=19/52.37605/4.90853). Notice the Wikidata=Q50413436 in the tags on the left hand side.
 
 ### Module 2.4 Many locations, GeoJSON .map file 
 * [Map of Dutch public libraries](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/4). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=6)
-* [.map file on Wikimedia Commons](https://commons.wikimedia.org/wiki/Data:DutchPublicLibraries.map). [View source](https://commons.wikimedia.org/w/index.php?title=Data:DutchPublicLibraries.map&action=edit)
+* [.map file on Wikimedia Commons](https://commons.wikimedia.org/wiki/Data:DutchPublicLibraries.map). <sub>([View source](https://commons.wikimedia.org/w/index.php?title=Data:DutchPublicLibraries.map&action=edit))</sub>
 * [Help: Map Data](https://www.mediawiki.org/wiki/Help:Map_Data)
 * http://geojson.io
 * SPARQL query to make .tsv file as input for Geojson.io: https://bit.ly/2YG48aY  (copy-paste URL to browser, do not click)
 
 ### Module 2.5 Combining data types 
 * https://www.mediawiki.org/wiki/Help:Extension:Kartographer#Combining_multiple_data_types
-* [Combining GeoShape (with geomask) and .map](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/5). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=7)
+* [Combining GeoShape (with geomask) and .map](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/5). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=7))</sub>
 * [Map of public libraries in the Dutch province of North-Holland](https://commons.wikimedia.org/wiki/Data:DutchPublicLibrariesNorthHolland.map)
 
 ### Module 2.6 GeoShapes using SPARQL and OSM
 * https://www.mediawiki.org/wiki/Help:Extension:Kartographer#GeoShapes_via_Wikidata_Query
-* [Maps with geoshapes based on SPARQL queries in Wikidata](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/6). [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=8)
+* [Maps with geoshapes based on SPARQL queries in Wikidata](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/6). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=8))</sub>
 * [GeoShape of Libya (Q1016)](https://www.openstreetmap.org/relation/192758#map=5/22.086/20.039) on OSM
 * [SPARQL query to generate geoshapes of African countries](https://bit.ly/2YBxV4t)
 * Variables must have names ?id ?title ?description ?fill ?stroke
 * In the SPARQL query only use single quotes, otherwise you’ll get a JSON parse error
 
 ### Module 2.7 Other cool embedded maps
-* [Railway lines around Klang Valley, Malaysia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/7).  [View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=9)
+* [Railway lines around Klang Valley, Malaysia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/7).  <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=9))</sub>
 * [Governors of US states with their party affiliation](https://www.mediawiki.org/wiki/Help:Extension:Kartographer#/map/4) and  https://www.mediawiki.org/wiki/Help:Extension:Kartographer#GeoShapes_via_Wikidata_Query
 * [Examples by Simon Cobb](https://www.wikidata.org/wiki/User:Sic19#GeoShapes)
 
