@@ -83,7 +83,7 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 * Corresponding .map file on Wikimedia Commons: https://commons.wikimedia.org/wiki/Data:DutchPublicLibraries.map <sub>([View source](https://commons.wikimedia.org/w/index.php?title=Data:DutchPublicLibraries.map&action=edit))</sub>
 * Help: Map Data: https://www.mediawiki.org/wiki/Help:Map_Data
 * http://geojson.io
-* SPARQL query to make .tsv file as input for Geojson.io: https://bit.ly/2YG48aY
+* SPARQL query to make .tsv file as input for Geojson.io: https://bit.ly/2YG48aY. Don't forget to rename the headers (replace '_' with '-')
 
 ### Module 2.5 Combining data types
 <image src="images/2-5-combining-data-types.jpg" width="200"/><br clear="all"/>
