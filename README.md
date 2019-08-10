@@ -13,24 +13,23 @@ You will do this in 3 modules of approx. 30-40 minutes each:
 
 See the [full outline of the workshop](OutlineAndNotes.md) for a more detailed description. 
 
+## Intended audiences
+While this workshop is tech-focused and will discuss basic Wikidata, Wikipedia and Wikimedia Commons techniques and programming tools, it is meant to be approachable by beginning Wikidata contributors and programmers. The [workshop leader](README.md#Workshop-leader-and-contact-details), by no means an advanced Python programmer nor Wikidata nor SPARQL guru himself, is providing examples and code snippets that you can easily adapt yourself with basic SPARQL, Wikidata and Python skills, to make them work for your own datasets.
+
+As the workshop is comprised of three 30-40 minute modules, you can decide to skip the modules that you find too advanced (or basic) for your individual knowledge level.
+
 ## Learning objectives
-<image src="images/3-3-netherlands-public-libraries-heatmap.jpg" width="200" align="right"/><br clear="right"/>
 After the workshop you will
 * Understand the steps to make basic flat and layered maps in Wikidata, based on geo-referenced (P625) items and SPARQL queries (Module 1, basic) 
 * Understand steps to embed maps in Wikimedia sites like Wikipedia, Wikimedia Commons and Wikidata (Module 2, intermediate)
 * Understand the steps to create Wikidata-based maps than can be used in other (non-Wiki) websites (Module 3, advanced)
 * Have access to map making resources, SPARQL examples and Python code snippets you can build upon for your own projects.
 
-## Intended audiences
-While this workshop is tech-focused and will discuss basic Wikidata, Wikipedia and Wikimedia Commons techniques and programming tools, it is meant to be approachable by beginning Wikidata contributors and programmers. The [workshop leader](README.md#Workshop-leader-and-contact-details), by no means an advanced Python programmer nor Wikidata nor SPARQL guru himself, is providing examples and code snippets that you can easily adapt yourself with basic SPARQL, Wikidata and Python skills, to make them work for your own datasets.
-
-As the workshop is comprised of three 30-40 minute modules, you can decide to skip the modules that you find too advanced (or basic) for your individual knowledge level.
-
-#### Required preparations
+## Required preparations
 In order to have an effective workshop, you will need tot do some preparations before you start:
 * Identify a geo-referenced (P625) set of coherent items in Wikidata to work with. Aim for 100-500 items or so. ([some examples](OutlineAndNotes.md#module-1--basic-flat--layered-maps))
 * Create an account on Wikidata/ Wikimedia, if not yet done so.
-* For Module 3, set up a working PAWS server and notebook ([Help 1](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS), [Help 2](https://wikitech.wikimedia.org/wiki/PAWS), [Help 3](https://www.mediawiki.org/wiki/PAWS)) – only needed if you plan to follow Module 3
+* For Module 3, set up a working PAWS server and notebook ([Help 1](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS), [Help 2](https://wikitech.wikimedia.org/wiki/PAWS), [Help 3](https://www.mediawiki.org/wiki/PAWS)) – only needed if you plan to do this module
 
 ## Workshop outline & resources
 #### For entire workshop
@@ -38,14 +37,15 @@ In order to have an effective workshop, you will need tot do some preparations b
 * Full workshop slides are available on [Slidehare]() and [Wikimedia Commons]()
 
 #### For Module 2
-* [Examples of embedded maps in Wikimedia projects](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019/)
+* [Examples of embedded maps on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019)
 
 #### For Module 3
 * [Jupyter notebook (PAWS)](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb) to make layered, interactive off-Wiki maps (and a [backup on Github](MapMakingWorkshop_Wikimania2019.ipynb))
 * [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb?format=raw)
 
 ## Workshop leader and contact details
-* This workshop is given by Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands - https://www.kb.nl/wikipedia
+* This workshop is given by Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands 
+* https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
 * User:OlafJanssen on [(Dutch) Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen), [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:OlafJanssen) and [Wikidata](https://www.wikidata.org/wiki/User:OlafJanssen)
 * Twitter: [@ookgezellig](https://twitter.com/ookgezellig)
