@@ -28,19 +28,23 @@ Many examples in this workshop are based on the first dataset [Public libraries 
 * Hiding fields from popup: https://w.wiki/6mU
 
 ### Module 1.2 Clustered flat map
+<image src="images/1-2-clustered-flat-map.jpg" width="200"/><br clear="all"/> 
 * Clustered flat map: https://w.wiki/6ew
 
-### Module 1.3 Basic layered map 
-* [Dutch public libraries layered by province](https://w.wiki/6gJ) - Non-custom layer names = labels from Wikidata items 
+### Module 1.3 Basic layered map
+<image src="images/1-3-basic-layered-map.jpg" width="200"/><br clear="all"/> 
+* Dutch public libraries, layered by province: https://w.wiki/6gJ - With non-custom layer names, the layer names are the labels from the Wikidata items 
 
 ### Module 1.4 Layered map, custom layer names 
+<image src="images/1-4-custom-layered-map.jpg" width="200"/><br clear="all"/> 
 * Libraries layered by postal code zone: https://bit.ly/3368DPk (do not click, copy-paste URL to browser)
 
-### Module 1.5 Other cool layered maps 
-* [Big cities, by population](https://w.wiki/3fx)
-* [Disasters, by type](https://w.wiki/6gY)
-* [Medieval churches, by century of construction](https://w.wiki/6ga)
-* [Dutch municipalities, by number of public libraries](https://w.wiki/6gb)
+### Module 1.5 Other cool layered maps
+<image src="images/1-5-other-cool-layered-maps.jpg" width="200"/><br clear="all"/> 
+* Big cities, by population: https://w.wiki/3fx
+* Disasters, by type: https://w.wiki/6gY
+* Medieval churches, by century of construction: https://w.wiki/6ga
+* Dutch municipalities, by number of public libraries: https://w.wiki/6gb
 
 
 ## Module 2:  Embedded maps in Wikimedia projects
