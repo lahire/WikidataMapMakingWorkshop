@@ -122,7 +122,7 @@ And nice to have heard about
 
 ### Module 3.1  Introduction to PAWS // Getting PAWS up and running
 <image src="images/3-1-introduction-to-paws.jpg" width="200"/><br clear="all"/>
-* PAWS homepage: https://www.mediawiki.org/wiki/PAWS
+* Important PAWS pages: https://www.mediawiki.org/wiki/PAWS + https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS + https://wikitech.wikimedia.org/wiki/PAWS
 * Starting your PAWS server: https://paws.wmflabs.org/paws/hub + https://paws.wmflabs.org/paws/hub/user/USERNAME
 * Running your PAWS server: https://paws.wmflabs.org/paws/user/USERNAME/tree
 * Your PAWS terminal(s): https://paws.wmflabs.org/paws/user/USERNAME/terminals/1 (/2, /3, /4 etc for additional terminals)
