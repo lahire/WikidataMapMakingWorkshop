@@ -149,11 +149,10 @@ And nice to have heard about
 * The addition of ```python state=dependency_state([m])``` keeps the html file growing too large
 * Python code: ```python embed_minimal_html('NetherlandsPublicLibrariesHeatmap.html', views=[m], state=dependency_state([m]), title='Heat map of Dutch public libraries, Wikimania map making workshop, 18th August 2019')```
 
-
 ## Feedback
 <image src="images/thanks-and-feedback.jpg" width="200"/><br clear="all"/>
 Feedback on this workshop is more than welcome, please let me know your suggestions, improvements, dislikes etc. 
-* Olaf Janssen, national library of The Netherlands - https://www.kb.nl/wikipedia
+* Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands - https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
-* User:OlafJanssen on (Dutch) Wikipedia, Wikimedia Commons and Wikidata
+* User:OlafJanssen on [(Dutch) Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen), [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:OlafJanssen) and [Wikidata](https://www.wikidata.org/wiki/User:OlafJanssen)
 * Twitter: [@ookgezellig](https://twitter.com/ookgezellig)
