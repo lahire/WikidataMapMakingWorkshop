@@ -21,14 +21,14 @@ If you do not have, or cannot create such a Wikidata set, you can use one of the
 Many examples in this workshop are based on the first dataset [Public libraries in The Netherlands](https://w.wiki/6dx)
 
 ### Module 1.1 Basic flat map
-<image align="right" src="images/1-1-basic-flat-map.jpg" width="200"/><br clear="all"/>
-* [Public libraries in The Netherlands](https://w.wiki/6dx)
-* [Default map view](https://w.wiki/6eq)
+<image src="images/1-1-basic-flat-map.jpg" width="200"/>
+* Public libraries in The Netherlands: https://w.wiki/6dx
+* Default map view: https://w.wiki/6eq
 * Relation between query and popup
-* [Hiding fields from popup](https://w.wiki/6mU)
+* Hiding fields from popup: https://w.wiki/6mU
 
 ### Module 1.2 Clustered flat map
-* [Clustered flat map](https://w.wiki/6ew)
+* Clustered flat map: https://w.wiki/6ew
 
 ### Module 1.3 Basic layered map 
 * [Dutch public libraries layered by province](https://w.wiki/6gJ) - Non-custom layer names = labels from Wikidata items 
