@@ -107,7 +107,7 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 * Examples by Simon Cobb: https://www.wikidata.org/wiki/User:Sic19#GeoShapes
 
 
-## Module 3 : Off-wiki layered Wikidata-driven maps
+## Module 3 : Interactive, layered off-Wiki maps driven by Wikidata
 <image src="images/module3.jpg" width="200"/><br clear="all"/>
 **Prerequisites for this Module** (in addtition to those in Modules 1 and 2)
 * Mediawiki account - https://www.mediawiki.org
