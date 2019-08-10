@@ -92,7 +92,7 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 * Map of public libraries in the Dutch province of North-Holland: https://commons.wikimedia.org/wiki/Data:DutchPublicLibrariesNorthHolland.map
 
 ### Module 2.6 GeoShapes using SPARQL and OSM
-<image src="images/2-6-geoghapes-using-sparql-and-osm.jpg" width="200"/><br clear="all"/>
+<image src="images/2-6-geoshapes-using-sparql-and-osm.jpg" width="200"/><br clear="all"/>
 * https://www.mediawiki.org/wiki/Help:Extension:Kartographer#GeoShapes_via_Wikidata_Query
 * Maps with GeoShapes based on SPARQL queries in Wikidata: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/6. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=8))</sub>
 * GeoShape of Libya (Q1016) on OSM: https://www.openstreetmap.org/relation/192758#map=5/22.086/20.039 
