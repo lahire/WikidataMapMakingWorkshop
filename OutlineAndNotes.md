@@ -153,4 +153,4 @@ Feedback on this workshop is more than welcome, please let me know your suggesti
 * Olaf Janssen, national library of The Netherlands - https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
 * User:OlafJanssen on (Dutch) Wikipedia, Wikimedia Commons and Wikidata
-* Twitter: @ookgezellig
+* Twitter: [@ookgezellig](https://twitter.com/ookgezellig)
