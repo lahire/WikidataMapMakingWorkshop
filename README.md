@@ -44,7 +44,7 @@ In order to have an effective workshop, you will need tot do some preparations b
 * [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb?format=raw)
 
 ## Workshop leader and contact details
-* This workshop is given by Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands 
+This workshop is given by Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands 
 * https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
 * User:OlafJanssen on [(Dutch) Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen), [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:OlafJanssen) and [Wikidata](https://www.wikidata.org/wiki/User:OlafJanssen)
