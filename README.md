@@ -14,6 +14,7 @@ You will do this in 3 modules of approx. 30-40 minutes each:
 See the [full outline of the workshop](OutlineAndNotes.md) for a more detailed description. 
 
 ## Learning objectives
+<image src="images/3-3-netherlands-public-libraries-heatmap.jpg" width="200" align="right"/><br clear="right"/>
 After the workshop you will
 * Understand the steps to make basic flat and layered maps in Wikidata, based on geo-referenced (P625) items and SPARQL queries (Module 1, basic) 
 * Understand steps to embed maps in Wikimedia sites like Wikipedia, Wikimedia Commons and Wikidata (Module 2, intermediate)
