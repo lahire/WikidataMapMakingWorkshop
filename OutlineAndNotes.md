@@ -36,7 +36,7 @@ Many examples in this workshop are based on the first dataset [Public libraries 
 
 ### Module 1.4 Layered map, custom layer names 
 <image src="images/1-4-custom-layered-map.jpg" width="200"/><br clear="all"/> 
-* Libraries layered by postal code zone: https://bit.ly/3368DPk (do not click, copy-paste URL to browser)
+* Libraries layered by postal code zone: https://bit.ly/3368DPk 
 
 ### Module 1.5 Other cool layered maps
 <image src="images/1-5-other-cool-layered-maps.jpg" width="200"/><br clear="all"/>
@@ -54,7 +54,6 @@ Nice to have some knowledge about
 * [OpenStreetMap](https://www.openstreetmap.org) (OSM)
 * [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
 
-<image src="images/2-kartographer.jpg" width="200"/><br clear="all"/>
 For embedding maps we'll be using the Mediawiki [Kartographer extension](https://www.mediawiki.org/wiki/Help:Extension:Kartographer)
 
 All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019
@@ -74,17 +73,17 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 
 ### Module 2.3 Outline (GeoShape) via Wikidata & OpenStreetMap
 <image src="images/2-3-geoshapes-via-wikidata-and-osm.jpg" width="200"/><br clear="all"/>
-* Outline (GeoShape) of Amsterdam public library (main site), using Wikidata and Open Street Map: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/3. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=5))</sub>  
-* Wikidata item of Amsterdam Public Library, OBA Oosterdok (Centrale): https://www.wikidata.org/wiki/Q50413436
+* Outline (GeoShape) of Amsterdam public library OBA Oosterdok, using Wikidata and Open Street Map: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/3. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=5))</sub>  
+* Wikidata item of Amsterdam Public Library OBA Oosterdok: https://www.wikidata.org/wiki/Q50413436
 * OBA Oosterdok on OSM: https://www.openstreetmap.org/way/240467636#map=19/52.37605/4.90853. Notice the Wikidata=Q50413436 in the tags on the left hand side.
 
 ### Module 2.4 Many locations, GeoJSON .map file
 <image src="images/2-4-many-locations-geojson-map-file.jpg" width="200"/><br clear="all"/>
-* Map of Dutch public libraries: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/4. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=6)</sub>
-* Corresponding .map file on Wikimedia Commons: https://commons.wikimedia.org/wiki/Data:DutchPublicLibraries.map . <sub>([View source](https://commons.wikimedia.org/w/index.php?title=Data:DutchPublicLibraries.map&action=edit))</sub>
+* Map of Dutch public libraries: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/4. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=6))</sub>
+* Corresponding .map file on Wikimedia Commons: https://commons.wikimedia.org/wiki/Data:DutchPublicLibraries.map <sub>([View source](https://commons.wikimedia.org/w/index.php?title=Data:DutchPublicLibraries.map&action=edit))</sub>
 * Help: Map Data: https://www.mediawiki.org/wiki/Help:Map_Data
 * http://geojson.io
-* SPARQL query to make .tsv file as input for Geojson.io: https://bit.ly/2YG48aY  (copy-paste URL to browser, do not click)
+* SPARQL query to make .tsv file as input for Geojson.io: https://bit.ly/2YG48aY
 
 ### Module 2.5 Combining data types
 <image src="images/2-5-combining-data-types.jpg" width="200"/><br clear="all"/>
