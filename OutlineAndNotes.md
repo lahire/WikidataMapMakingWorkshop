@@ -88,8 +88,8 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 ### Module 2.5 Combining data types
 <image src="images/2-5-combining-data-types.jpg" width="200"/><br clear="all"/>
 * https://www.mediawiki.org/wiki/Help:Extension:Kartographer#Combining_multiple_data_types
-* [Combining GeoShape (with geomask) and .map](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/5). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=7))</sub>
-* [Map of public libraries in the Dutch province of North-Holland](https://commons.wikimedia.org/wiki/Data:DutchPublicLibrariesNorthHolland.map)
+* Combining GeoShape (with geomask) and .map: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/5. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=7))</sub>
+* Map of public libraries in the Dutch province of North-Holland: https://commons.wikimedia.org/wiki/Data:DutchPublicLibrariesNorthHolland.map
 
 ### Module 2.6 GeoShapes using SPARQL and OSM
 <image src="images/2-6-geoghapes-using-sparql-and-osm.jpg" width="200"/><br clear="all"/>
