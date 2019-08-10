@@ -7,7 +7,7 @@
 **Prerequisites for this Module**
 * [Wikimedia account](https://www.wikidata.org/w/index.php?title=Special:CreateAccount)
 * Working knowledge of [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-* Basic understanding of [SPARQL](https://en.wikipedia.org/wiki/SPARQL) and the [Wikidata Query Service](https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual) (WQS)
+* Basic understanding of [SPARQL](https://en.wikipedia.org/wiki/SPARQL) and the [Wikidata Query Service](https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual) (WDQS)
 * A Wikidata set of items with geo coordinates [P625](https://www.wikidata.org/wiki/Property:P625)
 
 If you do not have, or cannot create such a Wikidata set, you can use one of these: 
