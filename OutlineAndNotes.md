@@ -128,6 +128,7 @@ And nice to have heard about
 * Your PAWS terminal(s): https://paws.wmflabs.org/paws/user/USERNAME/terminals/1 (/2, /3, /4 etc for additional terminals)
 * Stopping your PAWS server: https://paws.wmflabs.org/paws/hub/home
 * Your PAWS public folder (even when server is offline) https://paws-public.wmflabs.org/paws-public/User:USERNAME
+* PAWS alternative, local Jupyter Notebook installation via [Anaconda](https://www.anaconda.com/distribution/): https://jupyter.org/install + https://dataiseasy.com/2019/03/how-to-install-anaconda-and-jupyter-notebook
 
 ### Module 3.2  Installing example notebook
 <image src="images/3-2-installing-example-notebook.jpg" width="200"/><br clear="all"/>
