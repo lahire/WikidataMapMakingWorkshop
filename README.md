@@ -42,6 +42,7 @@ In order to have an effective workshop, you will need tot do some preparations b
 #### For Module 3
 * [Jupyter notebook (PAWS)](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop.ipynb) to make layered, interactive off-Wiki maps (and a backup [here on Github](module3stuff/WikidataMapMakingWorkshop.ipynb))
 * [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop.ipynb?format=raw)
+* Off-Wiki version of final map [NetherlandsPublicLibrariesHeatmap.html](http://ookgezellig.github.io/WikidataMapMakingWorkshop/NetherlandsPublicLibrariesHeatmap.html) 
 
 ## Workshop leader and contact details
 This workshop is given by Olaf Janssen, Wikimedia coordinator of the national library of The Netherlands 
