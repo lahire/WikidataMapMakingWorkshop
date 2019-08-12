@@ -34,7 +34,7 @@ In order to have an effective workshop, you will need tot do some preparations b
 ## Workshop outline & resources
 #### For entire workshop
 * [Full outline of the workshop](OutlineAndNotes.md) 
-* Full workshop slides are available as pdf on [Slidehare](), [Wikimedia Commons]() and here on [Github]().
+* [Full workshop slides (pdf)](slides/Generic/WikidataMapMakingWorkshop_Generic.pdf)
 
 #### For Module 2
 * [Examples of embedded maps on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019)
