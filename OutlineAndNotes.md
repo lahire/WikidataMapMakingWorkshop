@@ -1,5 +1,5 @@
 # Workshop outline and notes
-*Last update: 12th August 2019*
+*Latest update: 12th August 2019*
 
 ## Module 1:  Basic flat & layered maps 
 <image src="images/module1.jpg" width="200"/><br clear="all"/>
@@ -11,7 +11,7 @@
 * A Wikidata set of items with geo coordinates [P625](https://www.wikidata.org/wiki/Property:P625)
 
 If you do not have, or cannot create such a Wikidata set, you can use one of these: 
-1) [Public libraries in The Netherlands](https://w.wiki/6dx) (incomplete set, per 10-8-2019)
+1) [Public libraries in The Netherlands](https://w.wiki/6dx) (incomplete set, per 12-8-2019)
 2) [National heritage sites of the Netherlands](https://w.wiki/6dy) (limited to 1000 items)
 3) [Big cities](https://w.wiki/6e3) in the world
 4) [Volcanos](https://w.wiki/6e9)
