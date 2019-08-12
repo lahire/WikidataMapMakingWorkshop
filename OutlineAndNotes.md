@@ -140,14 +140,14 @@ And nice to have heard about
 <image src="images/3-3-adapt-example-notebook-create-your-own-interactive-layered-map.jpg" width="200"/><br clear="all"/>
 * Full instructions are given in the notebook. The notebook should be self-explanatory, so adapt, play, understand, get frustrated, learn.... Make your own interactive, layered map
 * The resulting map from the [default notebook](module3stuff/WikidataMapMakingWorkshop.ipynb) looks like this:
-
 <image src="images/3-3-netherlands-public-libraries-heatmap.jpg" width="400"/>
 
-### Module 3.4  Save your map for offline use
+### Module 3.4  Save your map for off-Wiki use
 <image src="images/3-4-save-your-map-for-offline-use.jpg" width="200"/><br clear="all"/>
 * Exporting the map to stand-alone off-Wiki HTML file: https://ipywidgets.readthedocs.io/en/latest/embedding.html#python-interface
 * The addition of ```python state=dependency_state([m])``` keeps the html file growing too large
 * Python code: ```python embed_minimal_html('NetherlandsPublicLibrariesHeatmap.html', views=[m], state=dependency_state([m]), title='Heat map of Dutch public libraries, Wikimania map making workshop, 18th August 2019')```
+*  <a href="http://ookgezellig.github.io/WikidataMapMakingWorkshop/NetherlandsPublicLibrariesHeatmap.html">Off-Wiki version of NetherlandsPublicLibrariesHeatmap.html</a>
 
 ## Feedback
 <image src="images/thanks-and-feedback.jpg" width="200"/><br clear="all"/>
