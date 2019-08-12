@@ -132,14 +132,14 @@ And nice to have heard about
 ### Module 3.2  Installing example notebook
 <image src="images/3-2-installing-example-notebook.jpg" width="200"/><br clear="all"/>
 * Go to PAWS public folder of User:OlafJanssen: https://paws-public.wmflabs.org/paws-public/User:OlafJanssen
-* Save raw json file *MapMakingWorkshop_Wikimania2019.ipynb* to your PC: https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/MapMakingWorkshop_Wikimania2019.ipynb?format=raw
+* Save raw json file *WikidataMapMakingWorkshop.ipynb* to your PC: https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop.ipynb?format=raw
 * Upload this raw json file to your own PAWS server
-* Example notebook to play around with on your own server: https://paws.wmflabs.org/paws/user/USERNAME/notebooks/MapMakingWorkshop_Wikimania2019.ipynb
+* Example notebook to play around with on your own server: https://paws.wmflabs.org/paws/user/USERNAME/notebooks/WikidataMapMakingWorkshop.ipynb
 
 ### Module 3.3  Adapt example notebook, create your own interactive layered map
 <image src="images/3-3-adapt-example-notebook-create-your-own-interactive-layered-map.jpg" width="200"/><br clear="all"/>
 * Full instructions are given in the notebook. The notebook should be self-explanatory, so adapt, play, understand, get frustrated, learn.... Make your own interactive, layered map
-* The resulting map from the [default notebook](module3stuff/MapMakingWorkshop_Wikimania2019.ipynb) looks like this:
+* The resulting map from the [default notebook](module3stuff/WikidataMapMakingWorkshop.ipynb) looks like this:
 
 <image src="images/3-3-netherlands-public-libraries-heatmap.jpg" width="400"/>
 
