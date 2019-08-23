@@ -53,7 +53,7 @@ This workshop is given by Olaf Janssen, Wikimedia coordinator of the national li
 
 ## Dates
 So far, this workshop was given during
-* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019. [Slides on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wikimania_18-08-2019).pdf) (pdf)
+* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019. Slides as pdfs here on [Github](slides/Wikimania2019/WikidataMapMakingWorkshop_Wikimania20190818.pdf), and also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wikimania_18-08-2019).pdf) and [Slideshare](https://www.slideshare.net/OlafJanssenNL/slidedecmap-making-workshop-from-wikidata-to-interactive-offwiki-maps-in-three-steps/OlafJanssenNL/slidedecmap-making-workshop-from-wikidata-to-interactive-offwiki-maps-in-three-steps)
 
 It will also be given during
 * [WikidataCon](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019), Berlin, 25-26 October 2019
