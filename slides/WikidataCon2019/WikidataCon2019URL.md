@@ -1,0 +1,1 @@
+https://www.wikidata.org/w/index.php?title=Wikidata:WikidataCon_2019/Program/Self-organized_sessions&oldid=1037057861#Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps
