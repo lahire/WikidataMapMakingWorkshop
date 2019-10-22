@@ -1,4 +1,5 @@
 # Map making workshop – from Wikidata to interactive off-Wiki maps in three steps
+*Latest update: 22 October 2019*
 
 <image src="images/generic-workshop-opening.jpg" width="500"/><br clear="all"/>
 
