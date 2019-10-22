@@ -133,6 +133,7 @@ And nice to have heard about
 ### Module 3.2  Installing example notebook
 <image src="images/3-2-installing-example-notebook.jpg" width="200"/><br clear="all"/>
 * Go to PAWS public folder of User:OlafJanssen: https://paws-public.wmflabs.org/paws-public/User:OlafJanssen
+* Go to folder *WikidataMapMakingWorkshop*
 * Save raw json file *WikidataMapMakingWorkshop.ipynb* to your PC: https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop/WikidataMapMakingWorkshop.ipynb?format=raw
 * Upload this raw json file to your own PAWS server
 * Example notebook to play around with on your own server: https://paws.wmflabs.org/paws/user/USERNAME/notebooks/WikidataMapMakingWorkshop.ipynb
