@@ -40,8 +40,8 @@ In order to have an effective workshop, you will need tot do some preparations b
 * [Examples of embedded maps on Dutch Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019)
 
 #### For Module 3
-* [Jupyter notebook (PAWS)](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop.ipynb) to make layered, interactive off-Wiki maps (and a backup [here on Github](module3stuff/WikidataMapMakingWorkshop.ipynb))
-* [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop.ipynb?format=raw)
+* [Jupyter notebook (PAWS)](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop/WikidataMapMakingWorkshop.ipynb) to make layered, interactive off-Wiki maps (and a backup [here on Github](module3stuff/WikidataMapMakingWorkshop.ipynb))
+* [Raw json version of this notebook](https://paws-public.wmflabs.org/paws-public/User:OlafJanssen/WikidataMapMakingWorkshop/WikidataMapMakingWorkshop.ipynb?format=raw)
 * Off-Wiki version of final map [NetherlandsPublicLibrariesHeatmap.html](http://ookgezellig.github.io/WikidataMapMakingWorkshop/NetherlandsPublicLibrariesHeatmap.html) 
 
 ## Workshop leader and contact details
