@@ -94,7 +94,8 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 ### Module 2.6 GeoShapes using SPARQL and OSM
 <image src="images/2-6-geoshapes-using-sparql-and-osm.jpg" width="200"/><br clear="all"/>
 * https://www.mediawiki.org/wiki/Help:Extension:Kartographer#GeoShapes_via_Wikidata_Query
-* Maps with GeoShapes based on SPARQL queries in Wikidata: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/6. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=8))</sub>
+* Map with GeoShapes based on SPARQL queries in Wikidata: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/6. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=8))</sub>
+* Note: in the source code of this map all newlines need to be stripped from the SPARQL query, otherwise the map gets broken. See https://phabricator.wikimedia.org/T214984 *<sub>Do I get this right, to make the following showcase map work without Lua, now there isn't a more readable way than removing all newlines from SPARQL?</sub>* 
 * GeoShape of Libya (Q1016) on OSM: https://www.openstreetmap.org/relation/192758#map=5/22.086/20.039 
 * SPARQL query to generate GeoShapes of African countries: https://bit.ly/2YBxV4t
 * Variables *must have* names ?id ?title ?description ?fill ?stroke
