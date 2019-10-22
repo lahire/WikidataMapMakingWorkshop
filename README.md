@@ -56,7 +56,7 @@ So far, this workshop was given during
 * [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019. Slides as pdfs here on [Github](slides/Wikimania2019/WikidataMapMakingWorkshop_Wikimania20190818.pdf), and also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wikimania_18-08-2019).pdf) and [Slideshare](https://www.slideshare.net/OlafJanssenNL/slidedecmap-making-workshop-from-wikidata-to-interactive-offwiki-maps-in-three-steps/OlafJanssenNL/slidedecmap-making-workshop-from-wikidata-to-interactive-offwiki-maps-in-three-steps)
 * [WikidataCon 2019](https://www.wikidata.org/w/index.php?title=Wikidata:WikidataCon_2019/Program/Self-organized_sessions&oldid=1037057861#Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Berlin, 26th October 2019. Slides as pdfs here on [Github](slides/WikidataCon2019/WikidataMapMakingWorkshop_WikidataCon20191026.pdf).
 
-*Note 22 Oct 2019*: These pdfs might contain some broken links and/or outdated screenshots due to recent updates of the workshop materials. Always check the [generic worshop pfd](slides/Generic/WikidataMapMakingWorkshop_Generic.pdf) for the most up to date slides .
+*Note 22 Oct 2019*: These pdfs might contain some broken links and/or outdated screenshots due to recent updates of the workshop materials. Always check the [generic workshop pfd](slides/Generic/WikidataMapMakingWorkshop_Generic.pdf) for the most up to date slides .
 
 It will also be given during
 * [Wiki Techstorm III](https://www.wikimedia.nl/pagina/program), Amsterdam, 23 November 2019
